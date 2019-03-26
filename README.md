@@ -12,7 +12,7 @@ $ slctl plugin install github.com/softleader/slctl-gitignore
 
 ## Usage
 
-從 gitignore.io 取得指定類別 .gitignore 的內容
+從 [gitignore.io](https://gitignore.io/) 取得指定類別 .gitignore 的內容
 
 ```sh
 $ gitignore go intellij+all
