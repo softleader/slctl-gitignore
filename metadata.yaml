@@ -1,0 +1,6 @@
+name: gitignore
+version: 0.1.0
+usage: fetches a .gitignore from gitignore.io
+description: Fetches a .gitignore from gitignore.io
+exec:
+  command: $SL_PLUGIN_DIR/gitignore
